@@ -32,5 +32,6 @@ Goal: Use SQL and Tableau to analyze sales performance of domestic- and foreign-
 ---
 
 ### Project Notes
-* Dataset for this project can be found [here]<https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data>.
+* Dataset for this project can be found [here](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data>).
 * SQL was used to clean and standardize the data, and add attributes such as manufacturer and region of manufacture. For more details, see 'vehicle-sales.sql' file in this repository.
+* The original dataset contains over 500,000 records. A smaller file containing only the first 50,000 rows has been included in this repository for reference (car_prices_first-n-rows.csv). Similarly, the first 50k rows of the cleaned dataset is included (car_prices_clean_first-n-rows.csv).
