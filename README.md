@@ -22,7 +22,7 @@ Goal: Use SQL and Tableau to analyze sales performance of domestic- and foreign-
 
 ![state-CA](https://github.com/user-attachments/assets/dc979776-fb23-4a43-986f-8e18851cb784)  ![state-TX](https://github.com/user-attachments/assets/05c391d3-2d59-46ba-a7b5-25922969cd5f)
 
-## Recommendations and Next Steps
+## Recommendations
 * Conduct market research to identify the factors influencing potential buyers to prefer foreign vehicles over domestic ones.
 * Consider research and development initiatives to enhance the quality, features, and technology of domestic vehicles to match or surpass foreign competitors.
 *	Review and revise current incentives, discounts, and financing options to make domestic vehicles more attractive to potential buyers.
