@@ -12,7 +12,7 @@ Goal: Use SQL and Tableau to analyze sales performance of domestic- and foreign-
 * State of sale
 
 ## Summary of Insights
-* Nationally, sales were higher for vehicles made by foreign manufacturers, though more states were dominated by domestic sales than by foreign sales (see Fig. 2 and 3 for examples).
+* Nationally, sales were higher for vehicles made by foreign manufacturers, though more states were dominated by domestic sales than by foreign sales (see Fig. 2 and 3 for examples of each).
 * Of the five states with the highest sales (Florida, California, Pennsylvania, Texas, and Georgia), four have more foreign sales than domestic.
 * Ford, GM, and Fiat Chrysler made up nearly 100% of all domestic sales in the US. However, the top three performing foreign manufacturers (Nissan, Toyota, and BMW) made up about 54% of all foreign-manufacturer sales.
 * Ford sales were the highest of all manufacturers throughout the first two quarters.
