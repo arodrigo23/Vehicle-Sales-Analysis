@@ -28,3 +28,10 @@ Goal: Use SQL and Tableau to analyze sales performance of domestic- and foreign-
 *	Review and revise current incentives, discounts, and financing options to make domestic vehicles more attractive to potential buyers.
 *	Build customer brand loyalty for domestic vehicles through loyalty programs and after-sales services like roadside assistance, maintenance, and warranty coverage.
 *	Develop marketing strategies to focus on states that have higher foreign sales.
+
+---
+
+## Project Notes
+* The dataset for this project can be found [here](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data>).
+* SQL was used to clean and standardize the data, and add attributes such as manufacturer and region of manufacture. For more details, see 'vehicle-sales.sql' file in this repository.
+* The original dataset contains over 550k records. A smaller file containing only the first 50k rows has been included in this repository for reference (car_prices_first-n-rows.csv). Similarly, the first 50k rows of the cleaned dataset is included (car_prices_clean_first-n-rows.csv).
