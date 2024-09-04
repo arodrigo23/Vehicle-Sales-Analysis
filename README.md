@@ -1,7 +1,5 @@
 # Vehicle Sales Analysis
-Goal: Use SQL and Tableau to analyze sales performance of domestic- and foreign-manufacturer vehicles in the US during the first half of 2015.
-
-\* The interactive dashboard pictured below can be found [here](https://public.tableau.com/app/profile/angela.rodriguez5585/viz/VehicleSalesDashboard_17213202544980/Dashboard).
+Goal: Use SQL and Tableau to analyze sales performance of domestic- and foreign-manufacturer vehicles in the US during the first half of 2015. The interactive dashboard pictured below can be found [here](https://public.tableau.com/app/profile/angela.rodriguez5585/viz/VehicleSalesDashboard_17213202544980/Dashboard).
 
 ![Dashboard-screenshot](https://github.com/user-attachments/assets/3f12d16e-bbb8-47bf-a363-e6c4ca158263)
 
